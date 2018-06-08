@@ -1,12 +1,11 @@
 import React, { Component } from 'react'
 
 class QuizEnd extends Component {
-    state = {  }
     render() {
         return (
             <div>
                 <p>Thanks for playing!</p>
-                <a href=" ">Reset Quiz</a>
+                <a href=''>Reset Quiz</a>
             </div>            
         )
     }
